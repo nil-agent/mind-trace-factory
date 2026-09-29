@@ -58,9 +58,9 @@ src/mind_trace_factory/
   thought_search.py  # iterative Jev-guided search
   pipeline.py        # orchestration
 examples/
-  maya_ground_truth.json
+  maya_ground_truth.py
 tests/
-  test_verification.py
+  test_verifier.py
   test_thought_search.py
 ```
 
